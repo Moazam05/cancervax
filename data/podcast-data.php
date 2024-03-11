@@ -514,15 +514,6 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "Boosting the immune system to detect, mark, and kill cancer cells with targeted antigens is our goal",
-        'videoID' => "Ghny8lb46pM",
-        'date' => "",
-        'category' => "short-videos",
-        'scope' => "public",
-        'slug' => "boosting-the-immune-system-to-detect-mark-and-kill-cancer-cells-with-targeted-antigens-is-our-goal",
-        "display" => true
-    ],
-    [
         'title' => "Join us as we unlock the immune system's power to fight cancer",
         'videoID' => "FD9zg3SoeSw",
         'date' => "",
